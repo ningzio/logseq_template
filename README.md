@@ -28,12 +28,12 @@
 
 ## shorcut
 
-![journal](./assets/journal.pic.jpg)
+![journal](./assets/journal.png)
 
 
 
-![journal1](./assets/journal1.pic.jpg)
+![journal1](./assets/journal1.png)
 
 
 
-![meeting](./assets/meeting.pic.jpg)
+![meeting](./assets/meeting.png)
