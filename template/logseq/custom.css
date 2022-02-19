@@ -1,0 +1,6 @@
+@import url('https://cdn.jsdelivr.net/gh/dracula/logseq@master/custom.css');
+
+:root {
+  --ls-font-family: "Only Emoi", "Fira Code";
+  --ct-page-title-font-family: var(--ls-font-family);
+}
