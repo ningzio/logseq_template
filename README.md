@@ -28,12 +28,12 @@
 
 ## shorcut
 
-![journal](/Users/ningzi/Documents/logseq_template/assets/journal.pic.jpg)
+![journal](./assets/journal.pic.jpg)
 
 
 
-![journal1](/Users/ningzi/Documents/logseq_template/assets/journal1.pic.jpg)
+![journal1](./assets/journal1.pic.jpg)
 
 
 
-![meeting](/Users/ningzi/Documents/logseq_template/assets/meeting.pic.jpg)
+![meeting](./assets/meeting.pic.jpg)
